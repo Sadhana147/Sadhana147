@@ -3,6 +3,7 @@
 Aspiring Data Analyst  Excel | VBA | Power BI | SQL | Python Learner
 
 Welcome to my GitHub profile 🌸
+
 I'm passionate about data analysis, dashboards and learning new technologies.
 
 
