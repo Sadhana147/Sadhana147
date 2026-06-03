@@ -1,16 +1,34 @@
-## Hi there 👋
+#👋 Hi, I'm Sadhana
 
-<!--
-**Sadhana147/Sadhana147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst  Excel | VBA | Power BI | SQL | Python Learner
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile 🌸
+I'm passionate about data analysis, dashboards and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🚀 About Me
+
+- 📊 Learning Data Analytics
+- 📚 Currently improving SQL, Excel, Power BI and Python
+- 🎯 Goal: Become a Data Analyst
+- 🌱 Interested in dashboards and business insights
+- 💡 Love learning through projects
+
+
+🛠️ Tech Stack
+
+- Excel
+- SQL
+- Power BI
+- Python
+
+
+📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/sadhana-gundagurthi-a8651b380
+- GitHub: https://github.com/Sadhana147
+
+
+⭐ Thanks for visiting my profile
+
+
