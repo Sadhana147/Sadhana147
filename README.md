@@ -19,6 +19,7 @@ I'm passionate about data analysis, dashboards and learning new technologies.
 🛠️ Tech Stack
 
 - Excel
+- VBA
 - SQL
 - Power BI
 - Python
